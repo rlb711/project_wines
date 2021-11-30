@@ -1,7 +1,7 @@
 ﻿id,name1,name2,country,region,year,price,currency,type
 1,Merlot,"Toscana Rosso Carmina Arvalia, Trinci",Italy,Tuscany,2015,69.99,USD,red
 2,Malbec,Catena Zapata Adrianna Vineyard Fortuna Terrae,Argentina,Uco Valley,2016,"1149,99",EUR,red
-3,Riesling,Robert Weil Kiedrich Grafenberg Riesling Spatlese,Germany,Württemberg,2018,"27,99",EUR,white
+3,Riesling,тестировщик,テストテスター,Württemberg,2018,"27,99",EUR,white
 4,Syrah/Shiraz,Penfolds St. Henri,,,2016,30.99,USD,red
 5,Viognier,Remelluri Blanco,Spain,Rioja,2017,99,USD,white
 6,Sauvignon Blanc,Cloudy Bay Sauvignon Blanc,New Zealand,Marlborough,2019,50.99,USD,white
