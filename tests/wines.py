@@ -5,7 +5,7 @@ import pandas as pd
 import os
 
 path2 = os.path.dirname(os.path.realpath(__file__))
-df = pd.read_csv(path2 + '\\data\\wines.csv' , encoding='utf8')
+df = pd.read_csv(path2 + '/data/wines.csv' , encoding='utf8')
 
 class WineList(object):
     def __new__(cls, *args, **kwargs):
