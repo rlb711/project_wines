@@ -7,7 +7,7 @@ from wines import *
 import pytest
 
 path2 = os.path.dirname(os.path.realpath(__file__))
-df = pd.read_csv(path2 + '\\data\\wines.csv', encoding='utf8')
+df = pd.read_csv(path2 + '/data/wines.csv', encoding='utf8')
 
 def test_wine_year():
     """Test year length is 4"""
